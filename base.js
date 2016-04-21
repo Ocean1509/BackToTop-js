@@ -1,3 +1,5 @@
+/*基本库*/
+
 function $(id){
 	return document.getElementById(id);
 }
